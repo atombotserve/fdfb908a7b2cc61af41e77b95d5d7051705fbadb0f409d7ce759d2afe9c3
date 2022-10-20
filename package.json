@@ -1,0 +1,12 @@
+{
+      "name": "fdfb908a7b2cc61af41e77b95d5d7051705fbadb0f409d7ce759d2afe9c3",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "หวยมาเล ย์ 24 ประตู ที่ HUAY จนถึง รวมสนุกกันได้ หวยมาเล ย์ 24 ประตู มีคำตอบ",
+      "repository": "https://github.com/atombotserve/fdfb908a7b2cc61af41e77b95d5d7051705fbadb0f409d7ce759d2afe9c3",
+      "keywords": "ไม่ผ่านเอเย่นต์",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
